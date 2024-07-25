@@ -7,7 +7,7 @@ function SiteList(){
     const fetchSites = () => {
         const trueSites = [
             {id: 1,name:'Serengeti National Park', country:'Tanzania', rating:4.8},
-            { id:2,name: 'Maasai Mara', country: "Kenya", rating:4.7},
+            { id:2,name: 'Maasai Mara', country: "Kenya", rating:4.6},
             { id:3,name:'Bwindi Impenetrable National park', country:'Uganda', rating: 4.6},
             
         ];
